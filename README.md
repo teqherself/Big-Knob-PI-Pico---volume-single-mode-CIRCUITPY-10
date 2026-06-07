@@ -1,6 +1,6 @@
 # Big Knob Standard
 
-A Raspberry Pi Pico 2 USB volume knob using CircuitPython, an EC11 rotary encoder, and a 24 LED WS2812/NeoPixel ring.
+A Raspberry Pi Pico (2) USB volume knob using CircuitPython, an EC11 rotary encoder, and a 24 LED WS2812/NeoPixel ring.
 
 ## Features
 

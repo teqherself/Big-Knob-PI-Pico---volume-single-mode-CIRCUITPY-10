@@ -1,4 +1,4 @@
-# Big Knob V1 by Gendemik Digital
+# Big Knob V1 - A Gendemik Digital Project
 
 A Raspberry Pi Pico (2) USB volume knob using CircuitPython, an EC11 rotary encoder, and a 24 LED WS2812/NeoPixel ring.
 
